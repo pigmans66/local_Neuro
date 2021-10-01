@@ -1,0 +1,4 @@
+#安装apache 修改cofi文件  目录与端口号
+httpd -k install -n apache
+httpd -k stat
+数据库安装 https://blog.csdn.net/bobo553443/article/details/81383194 选择msi安装方式
